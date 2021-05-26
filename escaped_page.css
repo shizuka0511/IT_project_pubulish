@@ -1,0 +1,51 @@
+#body{
+    background-color: #1A1A1D; 
+    background-image: url('It_wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+
+.header{
+    color: #C3073F;
+    text-align: center;
+    background-color: #1A1A1D;
+    
+}
+.video{
+position: relative;
+  padding-left: 20%;
+  padding-right: 25%;
+  margin-top: 10%;
+} 
+
+ .button_position{
+    position: relative;
+    padding-left: 65%;
+    padding-right: 5%; 
+}
+
+.button {
+    display: inline-block;
+    margin: 5%;
+    outline: none;
+    color: #fff;
+    background-color:#C3073F;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #6f2232;
+  }
+  .button a{
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+  }
+  
+.paragraph{
+  color: #fff;
+  text-align: center;
+}
+.containter{
+  margin-top: 5%;
+}

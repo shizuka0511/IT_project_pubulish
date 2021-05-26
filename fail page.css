@@ -1,0 +1,80 @@
+#body{
+    background-color: #1A1A1D; 
+    background-image: url('It_wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+
+.header{
+    color: #C3073F;
+    text-align: center;
+    background-color: #1A1A1D;
+
+    
+}
+
+.video{
+  position: relative;
+  padding-left: 20%;
+  padding-right: 25%;
+  margin-top: 10%;
+} 
+
+ .button_position{
+    position: relative;
+    padding-left: 65%;
+    padding-right: 5%; 
+} 
+
+.button {
+    float: right;
+    
+    margin: 5%;
+    outline: none;
+    color: #fff;
+    background-color:#C3073F;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #6f2232;
+  }
+  .button a{
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+  }
+  .button:hover {
+      background-color: #C3073F
+    }
+  
+  .button:active {
+    background-color: #C3073F;
+    box-shadow: 0 5px #6f2232;
+    transform: translateY(4px);
+  }
+  .btn-group .button {
+    background-color:#C3073F;
+    border: none;
+    color: white;
+    padding: 50px 50px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    cursor: pointer;
+    margin-top: 10%;
+    margin-left: 14.8%;
+  }
+  
+  /* .homelink{
+    color: #fff;
+    text-decoration: none;
+  } */
+ .quetion{
+  position: relative;
+  padding-left: 20%;
+  padding-right: 25%;
+ }
+ .anw{
+   text-align: left;
+ }
